@@ -3,7 +3,7 @@
 
 {-# OPTIONS_GHC -Wall #-}
 
-module Gather where
+module ConCat.Categories.Gather where
 
 import Prelude hiding (id, (.), curry, uncurry, const)
 

@@ -1,2 +1,6 @@
+packages:
+- '.'
+- ../concat
+
 resolver: lts-8.0
 
