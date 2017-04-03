@@ -10,7 +10,7 @@ module Main where
 
 import Prelude hiding (id,(.))
 
-import ConCat.AltCat (ccc,id,(.))
+import ConCat.AltCat (ccc,(.))
 -- import ConCat.Syntactic (Syn,render)
 
 import ConCat.Categories.Gather
