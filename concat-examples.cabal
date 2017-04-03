@@ -24,7 +24,7 @@ library
                      , concat
   exposed-modules:     ConCat.Categories.Gather
                        ConCat.Categories.Poly
-  ghc-options:      -O2 -Wno-macro-redefined
+  ghc-options:      -O2
 
 -- executable test
 --   default-language:    Haskell2010
@@ -48,4 +48,4 @@ test-suite categories-test
                      , concat
                      , concat-examples
 --  other-modules:     ConCat.Categories.Gather
-  ghc-options:      -O2 -Wno-macro-redefined
+  ghc-options:      -O2
